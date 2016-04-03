@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"default_line_ending": "unix",
+	"ensure_newline_at_eof_on_save": true,
+	"trim_trailing_white_space_on_save": true,
+	"font_face": "Hack",
+	"theme": "Spacegray.sublime-theme",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
