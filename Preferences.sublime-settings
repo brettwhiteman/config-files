@@ -5,6 +5,7 @@
 	"trim_trailing_white_space_on_save": true,
 	"font_face": "Hack",
 	"theme": "Spacegray.sublime-theme",
+	"word_wrap": "false",
 	"ignored_packages":
 	[
 		"Vintage"
