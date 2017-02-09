@@ -6,6 +6,7 @@
 	"font_face": "Hack",
 	"theme": "Spacegray.sublime-theme",
 	"word_wrap": "false",
+    "translate_tabs_to_spaces": true,
 	"ignored_packages":
 	[
 		"Vintage"
