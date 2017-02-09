@@ -1,14 +1,14 @@
 {
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-	"default_line_ending": "unix",
-	"ensure_newline_at_eof_on_save": true,
-	"trim_trailing_white_space_on_save": true,
-	"font_face": "Hack",
-	"theme": "Spacegray.sublime-theme",
-	"word_wrap": "false",
+    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+    "default_line_ending": "unix",
+    "ensure_newline_at_eof_on_save": true,
+    "trim_trailing_white_space_on_save": true,
+    "font_face": "Hack",
+    "theme": "Spacegray.sublime-theme",
+    "word_wrap": "false",
     "translate_tabs_to_spaces": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	]
+    "ignored_packages":
+    [
+        "Vintage"
+    ]
 }
