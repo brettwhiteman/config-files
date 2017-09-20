@@ -3,17 +3,14 @@
     "ensure_newline_at_eof_on_save": true,
     "trim_trailing_white_space_on_save": true,
     "font_face": "Source Code Pro Medium",
-    "font_size": 11,
+    "font_size": 10,
     "theme": "Spacegray.sublime-theme",
     "word_wrap": "false",
     "translate_tabs_to_spaces": true,
     "caret_style": "phase",
     "caret_extra_width": 1,
     "highlight_line": true,
-    "line_padding_bottom": 1,
-    "line_padding_top": 1,
     "bold_folder_labels": true,
-    "scroll_past_end": false,
     "ignored_packages":
     [
         "Vintage"
