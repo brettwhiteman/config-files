@@ -1,22 +1,27 @@
 {
-    "color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-    "ensure_newline_at_eof_on_save": true,
-    "trim_trailing_white_space_on_save": true,
-    "font_face": "Source Code Pro Medium",
-    "font_size": 10,
-    "theme": "Spacegray.sublime-theme",
-    "word_wrap": "false",
-    "translate_tabs_to_spaces": true,
-    "caret_style": "phase",
-    "caret_extra_width": 1,
-    "highlight_line": true,
-    "bold_folder_labels": true,
-    "ignored_packages":
-    [
-        "Vintage"
-    ],
-    "folder_exclude_patterns": [
-        ".git",
-        "node_modules"
-    ]
+	"bold_folder_labels": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		"node_modules"
+	],
+	"font_face": "Source Code Pro Medium",
+	"font_size": 11,
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Adaptive.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "false"
 }
