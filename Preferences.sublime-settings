@@ -7,11 +7,17 @@
 	"folder_exclude_patterns":
 	[
 		".git",
-		"node_modules",
-		"vendor"
+		"node_modules"
+	],
+	"file_exclude_patterns": [
+		"*.sublime-project",
+		"*.sublime-workspace",
+		"composer.lock",
+		"package-lock.json",
+		"artisan"
 	],
 	"font_face": "Source Code Pro Medium",
-	"font_size": 10.5,
+	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
