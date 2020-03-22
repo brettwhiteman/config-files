@@ -1,0 +1,14 @@
+{
+    "breadcrumbs.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Source Code Pro",
+    "editor.rulers": [
+        120
+    ],
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "explorer.confirmDelete": false,
+    "explorer.autoReveal": false,
+    "workbench.colorTheme": "Atom One Dark"
+}
