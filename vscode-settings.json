@@ -1,14 +1,16 @@
 {
     "breadcrumbs.enabled": false,
-    "editor.minimap.enabled": false,
     "editor.fontFamily": "Source Code Pro",
+    "editor.minimap.enabled": false,
     "editor.rulers": [
         120
     ],
-    "files.trimTrailingWhitespace": true,
-    "files.trimFinalNewlines": true,
-    "files.insertFinalNewline": true,
-    "explorer.confirmDelete": false,
     "explorer.autoReveal": false,
-    "workbench.colorTheme": "Atom One Dark"
+    "explorer.confirmDelete": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.activityBar.visible": false,
+    "workbench.colorTheme": "Atom One Dark",
+    "workbench.editor.restoreViewState": false
 }
