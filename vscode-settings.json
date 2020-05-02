@@ -1,6 +1,6 @@
 {
     "breadcrumbs.enabled": false,
-    "editor.fontFamily": "Source Code Pro",
+    "editor.fontSize": 16,
     "editor.minimap.enabled": false,
     "editor.rulers": [
         120
@@ -9,7 +9,8 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "workbench.activityBar.visible": false,
+    "workbench.activityBar.visible": true,
     "workbench.colorTheme": "Atom One Dark",
-    "workbench.editor.restoreViewState": false
+    "workbench.editor.restoreViewState": false,
+    "workbench.startupEditor": "none"
 }
