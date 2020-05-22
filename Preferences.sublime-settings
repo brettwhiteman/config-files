@@ -12,14 +12,15 @@
 		".git",
 		"node_modules"
 	],
+	"hide_minimap": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"rulers": [120],
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "false",
-	"hide_minimap": true
+	"word_wrap": "false"
 }
