@@ -12,7 +12,6 @@
 		".git",
 		"node_modules"
 	],
-	"hide_minimap": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
