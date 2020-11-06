@@ -22,7 +22,6 @@
 	"mini_diff": false,
 	"scroll_speed": 2.0,
 	"show_definitions": false,
-	"show_git_status": false,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
