@@ -1,15 +1,20 @@
 {
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_trailing_spaces": false,
+	"auto_match_enabled": false,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fold_buttons": false,
 	"font_face": "Source Code Pro",
 	"highlight_line": true,
+	"ignored_packages": ["Vintage"],
 	"mini_diff": false,
 	"scroll_speed": 0,
+	"shift_tab_unindent": true,
 	"show_definitions": false,
 	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": "all",
-	"word_wrap": false
+	"word_wrap": false,
 }
