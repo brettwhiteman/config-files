@@ -14,5 +14,8 @@
     "workbench.tree.indent": 12,
     "editor.rulers": [
         120
-    ]
+    ],
+    "telemetry.telemetryLevel": "off",
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
 }
