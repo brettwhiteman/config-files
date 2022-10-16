@@ -20,5 +20,7 @@
     "volar.completion.autoImportComponent": false,
     "workbench.editor.restoreViewState": false,
     "workbench.enableExperiments": false,
-    "workbench.tree.indent": 12
+    "workbench.tree.indent": 12,
+    "search.useIgnoreFiles": false,
+    "extensions.ignoreRecommendations": true
 }
