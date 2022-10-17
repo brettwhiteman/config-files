@@ -10,6 +10,7 @@
     ],
     "emmet.showExpandedAbbreviation": "never",
     "explorer.confirmDelete": false,
+    "extensions.ignoreRecommendations": true,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
@@ -22,6 +23,5 @@
     "workbench.enableExperiments": false,
     "workbench.tree.indent": 12,
     "search.useIgnoreFiles": false,
-    "volar.codeLens.references": false,
-    "workbench.editor.splitInGroupLayout": "vertical"
+    "volar.codeLens.references": false
 }
