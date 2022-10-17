@@ -22,5 +22,6 @@
     "workbench.enableExperiments": false,
     "workbench.tree.indent": 12,
     "search.useIgnoreFiles": false,
-    "extensions.ignoreRecommendations": true
+    "volar.codeLens.references": false,
+    "workbench.editor.splitInGroupLayout": "vertical"
 }
