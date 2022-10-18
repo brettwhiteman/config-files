@@ -23,5 +23,6 @@
     "workbench.enableExperiments": false,
     "workbench.tree.indent": 12,
     "search.useIgnoreFiles": false,
-    "volar.codeLens.references": false
+    "volar.codeLens.references": false,
+    "workbench.editor.untitled.hint": "hidden"
 }
