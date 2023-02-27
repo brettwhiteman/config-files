@@ -20,6 +20,7 @@
     "search.useIgnoreFiles": false,
     "telemetry.telemetryLevel": "off",
     "volar.codeLens.references": false,
+    "volar.inlayHints.eventArgumentInInlineHandlers": false,
     "workbench.editor.restoreViewState": false,
     "workbench.editor.untitled.hint": "hidden",
     "workbench.enableExperiments": false,
