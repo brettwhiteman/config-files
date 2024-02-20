@@ -1,28 +1,11 @@
 {
-    "breadcrumbs.enabled": false,
     "editor.folding": false,
-    "editor.fontSize": 15,
-    "editor.lineHeight": 1.5,
-    "editor.minimap.enabled": false,
-    "editor.rulers": [
-        120
-    ],
     "explorer.confirmDelete": false,
     "extensions.ignoreRecommendations": true,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingEmptyBraces": false,
-    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
-    "javascript.preferences.importModuleSpecifierEnding": "js",
     "search.useIgnoreFiles": false,
     "telemetry.telemetryLevel": "off",
-    "volar.codeLens.references": false,
-    "volar.inlayHints.eventArgumentInInlineHandlers": false,
-    "vue.inlayHints.optionsWrapper": false,
-    "workbench.editor.restoreViewState": false,
-    "workbench.editor.untitled.hint": "hidden",
-    "workbench.enableExperiments": false,
-    "workbench.startupEditor": "none",
-    "workbench.tree.indent": 12
+    "workbench.editor.restoreViewState": false
 }
