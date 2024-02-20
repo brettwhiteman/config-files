@@ -7,5 +7,6 @@
     "files.trimTrailingWhitespace": true,
     "search.useIgnoreFiles": false,
     "telemetry.telemetryLevel": "off",
-    "workbench.editor.restoreViewState": false
+    "workbench.editor.restoreViewState": false,
+    "workbench.startupEditor": "none"
 }
