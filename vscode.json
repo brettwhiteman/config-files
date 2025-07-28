@@ -8,6 +8,5 @@
     "telemetry.telemetryLevel": "off",
     "workbench.editor.restoreViewState": false,
     "workbench.startupEditor": "none",
-    "editor.fontFamily": "Fira Code Retina",
-    "editor.fontLigatures": true
+    "editor.fontFamily": "Source Code Pro"
 }
