@@ -5,8 +5,9 @@
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    "search.useIgnoreFiles": false,
     "telemetry.telemetryLevel": "off",
     "workbench.editor.restoreViewState": false,
-    "workbench.startupEditor": "none"
+    "workbench.startupEditor": "none",
+    "editor.fontFamily": "Fira Code Retina",
+    "editor.fontLigatures": true
 }
