@@ -1,12 +1,25 @@
 {
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingComments": "never",
+    "editor.autoClosingDelete": "never",
+    "editor.autoClosingOvertype": "never",
+    "editor.autoClosingQuotes": "never",
     "editor.folding": false,
+    "editor.fontFamily": "Source Code Pro",
+    "editor.parameterHints.enabled": false,
+    "editor.quickSuggestions": {
+        "other": "off"
+    },
+    "editor.suggestOnTriggerCharacters": false,
     "explorer.confirmDelete": false,
     "extensions.ignoreRecommendations": true,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
+    "html.autoClosingTags": false,
+    "javascript.autoClosingTags": false,
     "telemetry.telemetryLevel": "off",
+    "typescript.autoClosingTags": false,
     "workbench.editor.restoreViewState": false,
-    "workbench.startupEditor": "none",
-    "editor.fontFamily": "Source Code Pro"
+    "workbench.startupEditor": "none"
 }
