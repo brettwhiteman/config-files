@@ -6,11 +6,6 @@
     "editor.autoClosingQuotes": "never",
     "editor.folding": false,
     "editor.fontFamily": "Source Code Pro",
-    "editor.parameterHints.enabled": false,
-    "editor.quickSuggestions": {
-        "other": "off"
-    },
-    "editor.suggestOnTriggerCharacters": false,
     "explorer.confirmDelete": false,
     "extensions.ignoreRecommendations": true,
     "files.insertFinalNewline": true,
